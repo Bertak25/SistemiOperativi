@@ -1,3 +1,0 @@
-/media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/cmake-build-debug/CMakeFiles/B_thread.dir
