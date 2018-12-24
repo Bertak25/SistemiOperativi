@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/B_thread.dir/tqueue_test.c.o CMakeFiles/B_thread.dir/tqueue.c.o CMakeFiles/B_thread.dir/bthread.c.o CMakeFiles/B_thread.dir/bthread_test.c.o  -o B_thread 
