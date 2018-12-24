@@ -149,7 +149,7 @@ int bthread_join(bthread_t bthread, void **retval) {
 void bthread_yield() {
     bthread_block_timer_signal();
     volatile __bthread_scheduler_private *scheduler = bthread_get_scheduler();
-    // Ipotizzando di essere il thread corrente, dopo aver eseguito, non essendoci preemption, faccio yesld(). Se mi viene ritornato 0 allora "passo la palla"
+    // Ipotizzando di essere il thread corrente, dopo aver eseguito, non essendoci preemption, faccio yield(). Se mi viene ritornato 0 allora "passo la palla"
     // allo scheduler. Se non mi viene ritornato 0 vuol dire che ho "dormito" fin'ora e che sono il thread che è stato scelto da eseguire quindi non ripasso
     // la palla allo scheduler ma eseguo
     volatile __bthread_private *thread = (__bthread_private *) tqueue_get_data(scheduler->current_item);
