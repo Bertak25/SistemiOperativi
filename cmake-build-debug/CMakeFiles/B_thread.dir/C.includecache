@@ -38,27 +38,5 @@ bthread.h
 tqueue.h
 /media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/tqueue.h
 
-/media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/bthread_test.c
-stdio.h
--
-stdlib.h
--
-unistd.h
--
-signal.h
--
-bthread.h
-/media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/bthread.h
-
-/media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/tqueue.c
-tqueue.h
 /media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/tqueue.h
-stdlib.h
--
-stdio.h
--
-
-/media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/tqueue.h
-
-/media/davide/DATA/Documenti/Sistemi_operativi/Progetto/B-thread/tqueue_test.c
 

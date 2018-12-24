@@ -26,7 +26,7 @@
     <session id="-863620815">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.32" value="1" />
@@ -76,7 +76,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bthread.c">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="-684">
+=======
+            <state relative-caret-position="-2337">
+>>>>>>> Stashed changes
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -135,7 +139,10 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+<<<<<<< Updated upstream
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
+>>>>>>> Stashed changes
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -237,7 +244,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="7194000" />
+=======
+    <option name="totallyTimeSpent" value="6920000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -296,8 +307,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bthread_private.h">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="171">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+=======
+        <state relative-caret-position="-2337">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -306,36 +322,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tqueue.h">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="589">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+=======
+        <state relative-caret-position="674">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tqueue.c">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="940">
           <caret line="86" selection-start-line="86" selection-end-line="86" />
+=======
+        <state relative-caret-position="171">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bthread.h">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="674">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
+=======
+        <state relative-caret-position="741">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bthread_test.c">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="741">
           <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+=======
+        <state relative-caret-position="940">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bthread.c">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="-684">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+=======
+        <state relative-caret-position="589">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
